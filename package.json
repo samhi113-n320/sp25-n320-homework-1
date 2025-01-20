@@ -1,0 +1,12 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "Full-Stack Development is combining the front and back ends of development into one process. Front-end consists of development of the interfaces the user will interact with, such as the HTML, CSS, and event listeners. Back-end consists of developing the connections and databases for the site. Back-end typically consists of more scripting and functionality testing whereas front-end will consist more of user testing and examination of the best ways to interact with the site.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "shs": "node ./functions"
+  },
+  "author": "",
+  "license": "ISC"
+}
